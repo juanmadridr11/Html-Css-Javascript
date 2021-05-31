@@ -391,6 +391,7 @@
 
     columns: 3;
     color: white;
+    
 }
 #seccion-5{
 
@@ -446,4 +447,63 @@
     
     position: relative;
    
+}
+#div-11{
+
+    margin-top: 7rem;
+    background-color: #ff7300d0;
+    height: 22rem;
+}
+.h5-1{
+
+    display: inline-block;
+    margin-left: 2rem;
+}
+#seccion-7{
+
+    
+    width: 50rem;
+    margin-left: 15rem;
+    color: white;
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    
+}
+#i-12{
+
+    font-size: 5rem;
+    margin-left: 37rem;
+    margin-top: 3rem;
+    margin-bottom: 2.5rem;
+    transition: 1s;
+
+}
+#i-12:hover{
+
+    font-size: 6rem;
+    margin-left: 36.5rem;
+    margin-bottom: 1.5rem;
+    transition: 1s;
+}
+#seccion-8{
+
+    
+    color: white;
+    margin-top: 2rem;
+    margin-left: 22rem;
+    font-size: 0.9rem;
+    font-family: sans-serif;
+    font-weight: lighter;
+
+}
+.i-13{
+    font-size: 1.7rem;
+    margin-left: 1.8rem;
+    margin-top: 1.8rem;
+    color: white;
+    
+}
+#seccion-9{
+
+    margin-left: 32rem;
 }
